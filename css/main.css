@@ -5,3 +5,7 @@
   background-color: black;
   color: white;
 }
+#nav li{
+  padding: 25px 5px 0px;
+  font-size: 20px;
+}
