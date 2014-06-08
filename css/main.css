@@ -4,6 +4,7 @@
   left: 20px;
   background-color: black;
   color: white;
+  border-radius: 5px;
 }
 #nav li{
   padding: 10px 10px 10px;
