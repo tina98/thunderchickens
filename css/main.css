@@ -1,2 +1,7 @@
 #nav {
+  position: fixed;
+  top: 150px;
+  left: 20px;
+  background-color: black;
+  color: white;
 }
