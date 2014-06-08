@@ -7,6 +7,12 @@
   border-radius: 5px;
   font-family: 'Poiret One', cursive;
 }
+#nav a{
+  color: FFFFFF;
+}
+#nav a:hover{
+  text-decoration: underline;
+}
 #nav li{
   padding: 10px 10px 10px;
   font-size: 20px;
